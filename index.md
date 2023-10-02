@@ -7,10 +7,10 @@
 #### [NLP | DeBERTa: Classification of Disaster Tweets]
 [View code on DeepNote]([https://deepnote.com/workspace/seanlv-e5b5ce69-9533-45e7-8bc1-c6a9fd860161/project/Disaster-Tweets-d54e63a1-6298-432b-a1e4-46213abe9ea2/notebook/nlp-disaster-tweets-with-huggingface-transformers-2-c6e5e4c700aa4a6fafd00e847e01000a](https://deepnote.com/workspace/seanlv-e5b5ce69-9533-45e7-8bc1-c6a9fd860161/project/Disaster-Tweets-d54e63a1-6298-432b-a1e4-46213abe9ea2/notebook/NLP%20Disaster%20Tweets%20Classification-c6e5e4c700aa4a6fafd00e847e01000a)](https://deepnote.com/workspace/seanlv-e5b5ce69-9533-45e7-8bc1-c6a9fd860161/project/Disaster-Tweets-d54e63a1-6298-432b-a1e4-46213abe9ea2/notebook/NLP%20Disaster%20Tweets%20Classification-c6e5e4c700aa4a6fafd00e847e01000a))
 
----
+
 X, formerly Twitter, has become an integral part of breaking news and emergency announcements. Can a model tell the difference between an actual disaster 
 and a dramatic exclamation metaphorical apocalypse?
-<img src="images/deberta.jpg?raw=true"/>
+<img src="images/deberta_small.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
