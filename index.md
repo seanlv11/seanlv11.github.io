@@ -14,7 +14,12 @@ and a dramatic exclamation metaphorical apocalypse?
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 ---
-#### Disease Classification of Retinal Fundus Images 
+### Disease Classification of Retinal Fundus Images
+
+Remote areas of the world are often at disadvantage for preventative, regular healthcare. This is an early stages project using deeplearning aimed to help diagnosis of fundus
+diseases as a first line defense for those who do not have easy access to optometrists, as retina scanners can be portable and be carried by volunteers.
+
+
 [DeepNote](/pdf/sample_presentation.pdf)
 <img src="images/heatmap.jpg"/>
 
