@@ -3,7 +3,7 @@
 ---
 
 
-#### NLP | DeBERTa: Classification of Disaster Tweets
+### NLP | DeBERTa: Classification of Disaster Tweets
 [DeepNote]([https://deepnote.com/workspace/seanlv-e5b5ce69-9533-45e7-8bc1-c6a9fd860161/project/Disaster-Tweets-d54e63a1-6298-432b-a1e4-46213abe9ea2/notebook/nlp-disaster-tweets-with-huggingface-transformers-2-c6e5e4c700aa4a6fafd00e847e01000a])
 
 
@@ -28,8 +28,17 @@ diseases as a first line defense for those who do not have easy access to optome
 
 <img src="images/heatmap.jpg"/>
 
+###### Image: A heatmap rendering of CNN decision making on a retina scan
+
+
+<img src="images/tsne_3d.jpg"/>
+
+###### Image: A t-SNE rendering of non-linear features of retina scans
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#)
+
+
+
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
