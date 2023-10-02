@@ -39,26 +39,13 @@ diseases as a first line defense for those who do not have easy access to optome
 
 ###### Image: A t-SNE rendering of non-linear features of retina scans
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)
 
 
 
 ---
-[Project 3 Title](http://example.com/)
+[Coming Soon](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### 
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
 
 
 
