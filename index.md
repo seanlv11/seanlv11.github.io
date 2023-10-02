@@ -32,7 +32,7 @@ and a dramatic exclamation metaphorical apocalypse?
 - [Project 5 Title](http://example.com/)
 
 ---
-
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/TensorFlow-#FF6F00?logo=TensorFlow)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
 
 
