@@ -1,5 +1,19 @@
 ## Portfolio
 
+
+### Clustering | K-Means: Academic Performance Data Analysis & Actionable Insights
+
+<a href="https://github.com/seanlv11/progress/blob/8f8a086d1e8de06ea8e6fd4b1d89b353957eaff2/KMeans_Student_Analysis.ipynb">GitHub </a>
+
+
+From data to actionable insights. Filling missing values based on domain knowledge. A simple tutorial on k-means clustering using real-world academic data. Are some schools' gauge of student success too heavily dependent on testing scores?
+
+
+<img src="images/kMeans_heatmap.jpg?raw=true"/>
+
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+
 ---
 
 
