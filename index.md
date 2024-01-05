@@ -1,12 +1,14 @@
 ## Portfolio
 
-### AWS | NLP: Semantic-Search (Searching with Words) on Airbnb
+### AWS | NLP: What If We Search on Airbnb Using Words, instead of a Ton of Filters?
 
 <a href="http://capstone-airbnb.s3-website.us-east-2.amazonaws.com">Website </a>
 
 
 <a href="https://github.com/tabajara98/airbnb_nlp">GitHub </a>
 
+
+***Semantic-Search (Searching with Words) on Airbnb***
 
 Instead of selecting area, dates, and checking a bunch of boxes before reading a bunch of reviews to find an idea Airbnb, **what if we could search for the perfec property using a words-based search, like searching on Google?**
 This project (L.A. area only for the demo) aims to search using phrases such as 'a waterfront small apartment in XYZ area' or 'a romantic, cozy cabin'.
@@ -28,7 +30,7 @@ Pipelines & Hosting: AWS
 
 ---
 
-### Clustering | K-Means: Academic Performance Data Analysis & Actionable Insights
+### Clustering | K-Means: Exploring Academic Data and Getting Actionable Insights
 
 <a href="https://github.com/seanlv11/progress/blob/8f8a086d1e8de06ea8e6fd4b1d89b353957eaff2/KMeans_Student_Analysis.ipynb">GitHub </a>
 
@@ -44,7 +46,7 @@ From data to actionable insights. Filling missing values based on domain knowled
 ---
 
 
-### NLP | DeBERTa: Classification of Disaster Tweets
+### NLP | DeBERTa: Actual Disaster or Just Dramatic? (Disaster Tweets)
 
 <a href="https://deepnote.com/workspace/seanlv-e5b5ce69-9533-45e7-8bc1-c6a9fd860161/project/Disaster-Tweets-d54e63a1-6298-432b-a1e4-46213abe9ea2/notebook/nlp-disaster-tweets-with-huggingface-transformers-2-c6e5e4c700aa4a6fafd00e847e01000a">DeepNote </a>
 
@@ -62,7 +64,7 @@ and a dramatic exclamation a metaphorical apocalypse?
 ---
 
 
-### CNN | TensorFlow: Disease Classification of Retinal Fundus Images
+### CNN | TensorFlow: Auto Detecting & Classification of Eye Diseases Using AI (Deep Learning)
 <a href="https://docs.google.com/document/d/1ZOgKTWLeC8clTZS8VpGSHrENRl19v0Lo-XwTLisXA7o/edit?usp=sharing">Full Report</a> | <a href="https://deepnote.com/workspace/seanlv-e5b5ce69-9533-45e7-8bc1-c6a9fd860161/project/Disaster-Tweets-d54e63a1-6298-432b-a1e4-46213abe9ea2/notebook/6.%20SL%20%E2%80%93%20CNNs%20(Sean)-40fc728a91ec49b5afd22cafdfa05fbf">Deep Note (CNN)</a>
 
 
