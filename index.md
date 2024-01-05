@@ -2,7 +2,7 @@
 
 ### AWS | NLP: What If We Search on Airbnb Using Words, instead of a Ton of Filters?
 
-<a href="http://capstone-airbnb.s3-website.us-east-2.amazonaws.com">Website </a>
+<a href="http://capstone-airbnb.s3-website.us-east-2.amazonaws.com">Website (L.A. Area only)</a>
 
 
 <a href="https://github.com/tabajara98/airbnb_nlp">GitHub </a>
