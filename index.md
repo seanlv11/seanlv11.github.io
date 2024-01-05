@@ -1,6 +1,6 @@
 ## Portfolio
 
-### AWS | NLP: What If We Search on Airbnb Using Words, instead of a Ton of Filters?
+### AWS | NLP: Building Semantic Search on Airbnb Data
 
 <a href="http://capstone-airbnb.s3-website.us-east-2.amazonaws.com">Website (L.A. Area only)</a>
 
