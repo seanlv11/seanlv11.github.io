@@ -2,12 +2,24 @@
 
 ### AWS | NLP: Semantic-Search (Searching with Words) on Airbnb
 
-<a href="https://github.com/seanlv11/progress/blob/8f8a086d1e8de06ea8e6fd4b1d89b353957eaff2/KMeans_Student_Analysis.ipynb](http://capstone-airbnb.s3-website.us-east-2.amazonaws.com">GitHub </a>
+<a href="http://capstone-airbnb.s3-website.us-east-2.amazonaws.com">Website </a>
 
 
-Instead of selecting area, dates, and checking a bunch of boxes before reading a bunch of reviews to find an idea Airbnb, what if we could search for it like searching on Google?
+<a href="https://github.com/tabajara98/airbnb_nlp">GitHub </a>
+
+
+Instead of selecting area, dates, and checking a bunch of boxes before reading a bunch of reviews to find an idea Airbnb, what if we could search like searching on Google?
 This project (L.A. area only for the demo) aims to search using phrases such as 'a waterfront small apartment in XYZ area' or 'a romantic, cozy cabin'.
+Built with talented teammates from University of Michigan - Ann Arbor (Ajay Prasad & Antonio Tabajara)
 
+
+UI/UX: Figma, React
+
+
+NLP: Hugging Face
+
+
+Pipelines & Hosting: AWS
 
 <img src="images/airbnb.png?raw=true"/>
 
