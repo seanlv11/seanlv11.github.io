@@ -26,7 +26,7 @@ Pipelines & Hosting: AWS
 <img src="images/airbnb.png?raw=true"/>
 
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#) [![](https://img.shields.io/badge/amazonaws-black?logo=amazonaws)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-black?logo=huggingface)](#) [![](https://img.shields.io/badge/react-black?logo=react)](#) 
 
 ---
 
