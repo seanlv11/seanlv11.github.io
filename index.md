@@ -1,5 +1,20 @@
 ## Portfolio
 
+### AWS | NLP: Semantic-Search (Searching with Words) on Airbnb
+
+<a href="https://github.com/seanlv11/progress/blob/8f8a086d1e8de06ea8e6fd4b1d89b353957eaff2/KMeans_Student_Analysis.ipynb](http://capstone-airbnb.s3-website.us-east-2.amazonaws.com">GitHub </a>
+
+
+Instead of selecting area, dates, and checking a bunch of boxes before reading a bunch of reviews to find an idea Airbnb, what if we could search for it like searching on Google?
+This project (L.A. area only for the demo) aims to search using phrases such as 'a waterfront small apartment in XYZ area' or 'a romantic, cozy cabin'.
+
+
+<img src="images/airbnb.png?raw=true"/>
+
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+
+---
 
 ### Clustering | K-Means: Academic Performance Data Analysis & Actionable Insights
 
