@@ -8,7 +8,7 @@
 <a href="https://github.com/tabajara98/airbnb_nlp">GitHub </a>
 
 
-Instead of selecting area, dates, and checking a bunch of boxes before reading a bunch of reviews to find an idea Airbnb, what if we could search like searching on Google?
+Instead of selecting area, dates, and checking a bunch of boxes before reading a bunch of reviews to find an idea Airbnb, **what if we could search for the perfec property using a words-based search, like searching on Google?**
 This project (L.A. area only for the demo) aims to search using phrases such as 'a waterfront small apartment in XYZ area' or 'a romantic, cozy cabin'.
 Built with talented teammates from University of Michigan - Ann Arbor (Ajay Prasad & Antonio Tabajara)
 
