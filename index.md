@@ -1,5 +1,15 @@
 ## Portfolio
 
+
+## Tableau Examples
+
+<a href="https://public.tableau.com/views/KPI_Example/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link">KPI Dashboard Example</a>
+
+
+<a href="https://public.tableau.com/app/profile/sean.lee2984/viz/Airbnb_Q4_Dashboard/Dashboard1">Airbnb Exploratory Analysis Dashboard </a>
+
+
+
 ### AWS | NLP: Building Semantic Search on Airbnb Data
 
 <a href="http://capstone-airbnb.s3-website.us-east-2.amazonaws.com">Website (L.A. Area only)</a>
